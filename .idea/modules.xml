@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/dio-desafios-projetos.iml" filepath="$PROJECT_DIR$/dio-desafios-projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/download-pacotes/download-pacotes.iml" filepath="$PROJECT_DIR$/download-pacotes/download-pacotes.iml" />
     </modules>
   </component>
 </project>
