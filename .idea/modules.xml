@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Leitura de Gertrudes/Leitura de Gertrudes.iml" filepath="$PROJECT_DIR$/Leitura de Gertrudes/Leitura de Gertrudes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lojinha de doces/Lojinha de doces.iml" filepath="$PROJECT_DIR$/Lojinha de doces/Lojinha de doces.iml" />
       <module fileurl="file://$PROJECT_DIR$/dio-desafios-projetos.iml" filepath="$PROJECT_DIR$/dio-desafios-projetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/download-pacotes/download-pacotes.iml" filepath="$PROJECT_DIR$/download-pacotes/download-pacotes.iml" />
     </modules>
