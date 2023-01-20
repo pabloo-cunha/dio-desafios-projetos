@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Industria da Multa/Industria da Multa.iml" filepath="$PROJECT_DIR$/Industria da Multa/Industria da Multa.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leitura de Gertrudes/Leitura de Gertrudes.iml" filepath="$PROJECT_DIR$/Leitura de Gertrudes/Leitura de Gertrudes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lojinha de doces/Lojinha de doces.iml" filepath="$PROJECT_DIR$/Lojinha de doces/Lojinha de doces.iml" />
       <module fileurl="file://$PROJECT_DIR$/dio-desafios-projetos.iml" filepath="$PROJECT_DIR$/dio-desafios-projetos.iml" />
